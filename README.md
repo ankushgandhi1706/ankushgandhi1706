@@ -4,7 +4,7 @@
 
 ---
 
-Welcome to my GitHub profile! I’m an enthusiastic AI/ML and Software Development student passionate about solving complex problems and building innovative solutions. 🌟 Currently diving deep into Artificial Intelligence, I’m honing my skills in Machine Learning, Deep Learning, and Software Development.
+Welcome to my GitHub profile! I’m an enthusiastic AI/ML and Computer Science student passionate about solving complex problems and building innovative solutions. 🌟 Currently diving deep into Artificial Intelligence, I’m honing my skills in Machine Learning, Deep Learning, and Software Development.
 
 ## 🚀 Skills & Technologies
 
@@ -38,7 +38,7 @@ I’m on a continuous journey to expand my knowledge in AI/ML and Software Devel
 
 ## 📫 Connect with Me
 
-- 💼 **LinkedIn**: Ankush Gandhi
+- 💼 **LinkedIn**: [Ankush Gandhi](https://www.linkedin.com/in/ankush-gandhi-045a7122a/)
 - 📧 **Email**: ankushgandhi1706@gmail.com
 
 ---
